@@ -1,0 +1,11 @@
+[server]
+port = 8501
+enableCORS = false
+
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#F0F2F6"
+font = "sans serif"
+
+[logging]
+level = "info"
