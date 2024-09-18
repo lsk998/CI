@@ -78,7 +78,6 @@ langchain-core==0.1.52
 langchain-text-splitters==0.0.2
 langsmith==0.1.67
 lazy_loader==0.4
-llvmlite==0.42.0
 lxml==4.9.4
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
