@@ -102,7 +102,7 @@ openpyxl==3.1.2
 orjson==3.10.3
 overrides==7.4.0
 packaging==23.2
-pandas==2.1.2
+pandas
 pandocfilters==1.5.0
 parso==0.8.3
 pillow==10.2.0
